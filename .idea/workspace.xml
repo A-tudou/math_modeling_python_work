@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0a7e574-7845-437f-9cb4-0f52fd41ede3" name="更改" comment="7.5homework" />
+    <list default="true" id="c0a7e574-7845-437f-9cb4-0f52fd41ede3" name="更改" comment="7.5homework">
+      <change afterPath="$PROJECT_DIR$/回归模型/加州房价预测/California Housing Prices/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归模型/加州房价预测/titanic/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +85,8 @@
       <workItem from="1783209945001" duration="4119000" />
       <workItem from="1783239954997" duration="617000" />
       <workItem from="1783241140356" duration="73000" />
-      <workItem from="1783241253767" duration="699000" />
+      <workItem from="1783241253767" duration="3229000" />
+      <workItem from="1783300230244" duration="2476000" />
     </task>
     <task id="LOCAL-00001" summary="7.5homework">
       <option name="closed" value="true" />
@@ -91,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783241315623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7.5homework">
+      <option name="closed" value="true" />
+      <created>1783254818021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783254818021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="7.5homework">
+      <option name="closed" value="true" />
+      <created>1783254831579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783254831579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +127,6 @@
     <SUITE FILE_PATH="coverage/python$q2.coverage" NAME="q2 覆盖结果" MODIFIED="1783220399698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大作业1" />
     <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2 覆盖结果" MODIFIED="1783219642308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大作业1" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main 覆盖结果" MODIFIED="1783065631040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 覆盖结果" MODIFIED="1783219302751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大作业1" />
+    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 覆盖结果" MODIFIED="1783302078451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回归模型/加州房价预测/titanic" />
   </component>
 </project>
