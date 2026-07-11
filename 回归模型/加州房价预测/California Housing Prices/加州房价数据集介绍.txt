@@ -1,0 +1,15 @@
+该数据集共有 20640 个样本，包含数据集涵盖 10 个变量，其中 9 个为数值型变量（float64）、1 个为类别型变量（object）。
+
+数据集变量表如下：
+
+变量名称（英文）	        中文解释	                                                                                   数据类型
+longitude	                        经度：衡量房屋西向程度，数值越大位置越靠西	                                  float64
+latitude	                       纬度：衡量房屋北向程度，数值越大位置越靠北                                     float64
+housing_median_age      房屋年龄中位数：街区内房屋年龄的中位数，数值越小房屋越新     	  float64
+total_rooms	        总房间数：一个街区内的房间总数	                                                  float64
+total_bedrooms	       总卧室数：一个街区内的卧室总数（存在缺失）	                                  float64
+population	       人口数：居住在一个街区内的总人口数	                                                  float64
+households	       家庭数：一个街区内的家庭总数（家庭指同一住宅单元的居住人群）	  float64
+median_income	       收入中位数：一个街区内家庭的收入中位数（单位：万美元）	   float64
+median_house_value       房屋价值中位数：一个街区内家庭的房屋价值中位数（单位：美元），为预测任务的目标变量    float64
+ocean_proximity	         临海距离：房屋相对于海洋 / 海域的位置（如 “靠近海洋”“距海洋较远” 等类别）	    object
